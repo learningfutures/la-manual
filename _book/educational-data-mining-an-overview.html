@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Week 7 Educational Data Mining: An Overview | CI 5371: Learning Analytics</title>
+  <meta name="description" content="This is a course manual of Bodong Chen’s learning analytics course." />
+  <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Week 7 Educational Data Mining: An Overview | CI 5371: Learning Analytics" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="This is a course manual of Bodong Chen’s learning analytics course." />
+  <meta name="github-repo" content="meefen/la-manual" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Week 7 Educational Data Mining: An Overview | CI 5371: Learning Analytics" />
+  
+  <meta name="twitter:description" content="This is a course manual of Bodong Chen’s learning analytics course." />
+  
+
+<meta name="author" content="Bodong Chen" />
+
+
+<meta name="date" content="2020-10-19" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="hidden-assumptions-epistemology-pedagogy-and-assessment.html"/>
+<link rel="next" href="all-about-data-data-wrangling.html"/>
+<script src="libs/header-attrs-2.3/header-attrs.js"></script>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">CI 5371: Learning Analytics</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>About</a>
+<ul>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#important-links"><i class="fa fa-check"></i>Important Links</a></li>
+</ul></li>
+<li class="chapter" data-level="1" data-path="intro.html"><a href="intro.html"><i class="fa fa-check"></i><b>1</b> Introduction</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="intro.html"><a href="intro.html#this-course"><i class="fa fa-check"></i><b>1.1</b> This Course</a>
+<ul>
+<li class="chapter" data-level="1.1.1" data-path="intro.html"><a href="intro.html#course-syllabus"><i class="fa fa-check"></i><b>1.1.1</b> Course Syllabus</a></li>
+<li class="chapter" data-level="1.1.2" data-path="intro.html"><a href="intro.html#technology-setup"><i class="fa fa-check"></i><b>1.1.2</b> Technology setup</a></li>
+<li class="chapter" data-level="1.1.3" data-path="intro.html"><a href="intro.html#schedule"><i class="fa fa-check"></i><b>1.1.3</b> What to expect each week?</a></li>
+</ul></li>
+<li class="chapter" data-level="1.2" data-path="intro.html"><a href="intro.html#week-1-activities"><i class="fa fa-check"></i><b>1.2</b> Week 1 Activities</a>
+<ul>
+<li class="chapter" data-level="1.2.1" data-path="intro.html"><a href="intro.html#readings"><i class="fa fa-check"></i><b>1.2.1</b> Readings</a></li>
+<li class="chapter" data-level="1.2.2" data-path="intro.html"><a href="intro.html#week-1-zoom-meeting"><i class="fa fa-check"></i><b>1.2.2</b> Week 1 Zoom Meeting</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="learning-analytics-a-brief-overview.html"><a href="learning-analytics-a-brief-overview.html"><i class="fa fa-check"></i><b>2</b> Learning Analytics: A Brief Overview</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="learning-analytics-a-brief-overview.html"><a href="learning-analytics-a-brief-overview.html#learning-activities"><i class="fa fa-check"></i><b>2.1</b> Learning Activities</a>
+<ul>
+<li class="chapter" data-level="2.1.1" data-path="learning-analytics-a-brief-overview.html"><a href="learning-analytics-a-brief-overview.html#read-annotate-and-discuss"><i class="fa fa-check"></i><b>2.1.1</b> Read, annotate, and discuss</a></li>
+<li class="chapter" data-level="2.1.2" data-path="learning-analytics-a-brief-overview.html"><a href="learning-analytics-a-brief-overview.html#watch-a-video"><i class="fa fa-check"></i><b>2.1.2</b> Watch a Video</a></li>
+<li class="chapter" data-level="2.1.3" data-path="learning-analytics-a-brief-overview.html"><a href="learning-analytics-a-brief-overview.html#exploring-course-project-ideas"><i class="fa fa-check"></i><b>2.1.3</b> Exploring course project ideas</a></li>
+<li class="chapter" data-level="2.1.4" data-path="learning-analytics-a-brief-overview.html"><a href="learning-analytics-a-brief-overview.html#week-2-zoom-meeting"><i class="fa fa-check"></i><b>2.1.4</b> Week 2 Zoom Meeting</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="ethics-algorithmic-accountability-and-system-integrity.html"><a href="ethics-algorithmic-accountability-and-system-integrity.html"><i class="fa fa-check"></i><b>3</b> Ethics, Algorithmic Accountability, and System Integrity</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="ethics-algorithmic-accountability-and-system-integrity.html"><a href="ethics-algorithmic-accountability-and-system-integrity.html#ethics-in-learning-analytics"><i class="fa fa-check"></i><b>3.1</b> Ethics in Learning Analytics</a></li>
+<li class="chapter" data-level="3.2" data-path="ethics-algorithmic-accountability-and-system-integrity.html"><a href="ethics-algorithmic-accountability-and-system-integrity.html#week-3-learning-activities"><i class="fa fa-check"></i><b>3.2</b> Week 3 Learning Activities</a>
+<ul>
+<li class="chapter" data-level="3.2.1" data-path="learning-analytics-a-brief-overview.html"><a href="learning-analytics-a-brief-overview.html#read-annotate-and-discuss"><i class="fa fa-check"></i><b>3.2.1</b> Read, annotate, and discuss</a></li>
+<li class="chapter" data-level="3.2.2" data-path="ethics-algorithmic-accountability-and-system-integrity.html"><a href="ethics-algorithmic-accountability-and-system-integrity.html#meet-learning-analytics-experts"><i class="fa fa-check"></i><b>3.2.2</b> Meet Learning Analytics Experts</a></li>
+<li class="chapter" data-level="3.2.3" data-path="ethics-algorithmic-accountability-and-system-integrity.html"><a href="ethics-algorithmic-accountability-and-system-integrity.html#living-with-learning-analytics"><i class="fa fa-check"></i><b>3.2.3</b> “Living” with Learning Analytics</a></li>
+<li class="chapter" data-level="3.2.4" data-path="ethics-algorithmic-accountability-and-system-integrity.html"><a href="ethics-algorithmic-accountability-and-system-integrity.html#continuing-to-explore-project-ideas"><i class="fa fa-check"></i><b>3.2.4</b> Continuing to explore project ideas</a></li>
+</ul></li>
+<li class="chapter" data-level="3.3" data-path="ethics-algorithmic-accountability-and-system-integrity.html"><a href="ethics-algorithmic-accountability-and-system-integrity.html#housekeeping"><i class="fa fa-check"></i><b>3.3</b> Housekeeping</a>
+<ul>
+<li class="chapter" data-level="3.3.1" data-path="ethics-algorithmic-accountability-and-system-integrity.html"><a href="ethics-algorithmic-accountability-and-system-integrity.html#start-to-explore-special-interest-groups-sigs"><i class="fa fa-check"></i><b>3.3.1</b> Start to Explore Special Interest Groups (SIGs)</a></li>
+<li class="chapter" data-level="3.3.2" data-path="ethics-algorithmic-accountability-and-system-integrity.html"><a href="ethics-algorithmic-accountability-and-system-integrity.html#future-weeks"><i class="fa fa-check"></i><b>3.3.2</b> Future Weeks</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="cases-and-examples-of-learning-analytics.html"><a href="cases-and-examples-of-learning-analytics.html"><i class="fa fa-check"></i><b>4</b> Cases and Examples of Learning Analytics</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="cases-and-examples-of-learning-analytics.html"><a href="cases-and-examples-of-learning-analytics.html#learning-analytics-cases-and-examples"><i class="fa fa-check"></i><b>4.1</b> Learning Analytics Cases and Examples</a></li>
+<li class="chapter" data-level="4.2" data-path="cases-and-examples-of-learning-analytics.html"><a href="cases-and-examples-of-learning-analytics.html#week-4-learning-activities"><i class="fa fa-check"></i><b>4.2</b> Week 4 Learning Activities</a>
+<ul>
+<li class="chapter" data-level="4.2.1" data-path="cases-and-examples-of-learning-analytics.html"><a href="cases-and-examples-of-learning-analytics.html#meet-two-experts"><i class="fa fa-check"></i><b>4.2.1</b> Meet Two Experts</a></li>
+<li class="chapter" data-level="4.2.2" data-path="cases-and-examples-of-learning-analytics.html"><a href="cases-and-examples-of-learning-analytics.html#case-analysis"><i class="fa fa-check"></i><b>4.2.2</b> Case analysis</a></li>
+<li class="chapter" data-level="4.2.3" data-path="cases-and-examples-of-learning-analytics.html"><a href="cases-and-examples-of-learning-analytics.html#project-ideas-share-out"><i class="fa fa-check"></i><b>4.2.3</b> Project ideas share-out</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="ethics-algorithmic-accountability-and-system-integrity.html"><a href="ethics-algorithmic-accountability-and-system-integrity.html#housekeeping"><i class="fa fa-check"></i><b>4.3</b> Housekeeping</a>
+<ul>
+<li class="chapter" data-level="4.3.1" data-path="cases-and-examples-of-learning-analytics.html"><a href="cases-and-examples-of-learning-analytics.html#continue-to-explore-special-interest-groups-sigs"><i class="fa fa-check"></i><b>4.3.1</b> Continue to Explore Special Interest Groups (SIGs)</a></li>
+<li class="chapter" data-level="4.3.2" data-path="ethics-algorithmic-accountability-and-system-integrity.html"><a href="ethics-algorithmic-accountability-and-system-integrity.html#future-weeks"><i class="fa fa-check"></i><b>4.3.2</b> Future Weeks</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="theory-and-learning-analytics.html"><a href="theory-and-learning-analytics.html"><i class="fa fa-check"></i><b>5</b> Theory and Learning Analytics</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="theory-and-learning-analytics.html"><a href="theory-and-learning-analytics.html#learning-analytics-and-learning-theory"><i class="fa fa-check"></i><b>5.1</b> Learning Analytics and Learning Theory</a></li>
+<li class="chapter" data-level="5.2" data-path="theory-and-learning-analytics.html"><a href="theory-and-learning-analytics.html#week-5-learning-activities"><i class="fa fa-check"></i><b>5.2</b> Week 5 Learning Activities</a>
+<ul>
+<li class="chapter" data-level="5.2.1" data-path="learning-analytics-a-brief-overview.html"><a href="learning-analytics-a-brief-overview.html#read-annotate-and-discuss"><i class="fa fa-check"></i><b>5.2.1</b> Read, annotate, and discuss</a></li>
+<li class="chapter" data-level="5.2.2" data-path="ethics-algorithmic-accountability-and-system-integrity.html"><a href="ethics-algorithmic-accountability-and-system-integrity.html#meet-learning-analytics-experts"><i class="fa fa-check"></i><b>5.2.2</b> Meet Learning Analytics Experts</a></li>
+<li class="chapter" data-level="5.2.3" data-path="theory-and-learning-analytics.html"><a href="theory-and-learning-analytics.html#special-interest-group-sig-signup"><i class="fa fa-check"></i><b>5.2.3</b> Special Interest Group (SIG) Signup</a></li>
+<li class="chapter" data-level="5.2.4" data-path="theory-and-learning-analytics.html"><a href="theory-and-learning-analytics.html#continue-to-advance-your-project-idea"><i class="fa fa-check"></i><b>5.2.4</b> Continue to advance your project idea</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="hidden-assumptions-epistemology-pedagogy-and-assessment.html"><a href="hidden-assumptions-epistemology-pedagogy-and-assessment.html"><i class="fa fa-check"></i><b>6</b> Hidden Assumptions: Epistemology, Pedagogy, and Assessment</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="hidden-assumptions-epistemology-pedagogy-and-assessment.html"><a href="hidden-assumptions-epistemology-pedagogy-and-assessment.html#meet-an-expert"><i class="fa fa-check"></i><b>6.1</b> Meet An Expert</a></li>
+<li class="chapter" data-level="6.2" data-path="hidden-assumptions-epistemology-pedagogy-and-assessment.html"><a href="hidden-assumptions-epistemology-pedagogy-and-assessment.html#week-6-learning-activities"><i class="fa fa-check"></i><b>6.2</b> Week 6 Learning Activities</a>
+<ul>
+<li class="chapter" data-level="6.2.1" data-path="learning-analytics-a-brief-overview.html"><a href="learning-analytics-a-brief-overview.html#read-annotate-and-discuss"><i class="fa fa-check"></i><b>6.2.1</b> Read, annotate, and discuss</a></li>
+<li class="chapter" data-level="6.2.2" data-path="hidden-assumptions-epistemology-pedagogy-and-assessment.html"><a href="hidden-assumptions-epistemology-pedagogy-and-assessment.html#sig-planning"><i class="fa fa-check"></i><b>6.2.2</b> SIG planning</a></li>
+<li class="chapter" data-level="6.2.3" data-path="theory-and-learning-analytics.html"><a href="theory-and-learning-analytics.html#continue-to-advance-your-project-idea"><i class="fa fa-check"></i><b>6.2.3</b> Continue to advance your project idea</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="educational-data-mining-an-overview.html"><a href="educational-data-mining-an-overview.html"><i class="fa fa-check"></i><b>7</b> Educational Data Mining: An Overview</a>
+<ul>
+<li class="chapter" data-level="7.1" data-path="hidden-assumptions-epistemology-pedagogy-and-assessment.html"><a href="hidden-assumptions-epistemology-pedagogy-and-assessment.html#meet-an-expert"><i class="fa fa-check"></i><b>7.1</b> Meet an Expert</a></li>
+<li class="chapter" data-level="7.2" data-path="educational-data-mining-an-overview.html"><a href="educational-data-mining-an-overview.html#week-7-learning-activities"><i class="fa fa-check"></i><b>7.2</b> Week 7 Learning Activities</a>
+<ul>
+<li class="chapter" data-level="7.2.1" data-path="learning-analytics-a-brief-overview.html"><a href="learning-analytics-a-brief-overview.html#read-annotate-and-discuss"><i class="fa fa-check"></i><b>7.2.1</b> Read, annotate, and discuss</a></li>
+<li class="chapter" data-level="7.2.2" data-path="hidden-assumptions-epistemology-pedagogy-and-assessment.html"><a href="hidden-assumptions-epistemology-pedagogy-and-assessment.html#sig-planning"><i class="fa fa-check"></i><b>7.2.2</b> SIG Planning</a></li>
+<li class="chapter" data-level="7.2.3" data-path="educational-data-mining-an-overview.html"><a href="educational-data-mining-an-overview.html#register-for-the-next-learning-informatics-webinar"><i class="fa fa-check"></i><b>7.2.3</b> Register for the next Learning Informatics Webinar</a></li>
+</ul></li>
+<li class="chapter" data-level="7.3" data-path="educational-data-mining-an-overview.html"><a href="educational-data-mining-an-overview.html#bonus-video-how-to-easily-export-hypothes.is-annotations"><i class="fa fa-check"></i><b>7.3</b> Bonus video: How to easily export Hypothes.is annotations?</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="all-about-data-data-wrangling.html"><a href="all-about-data-data-wrangling.html"><i class="fa fa-check"></i><b>8</b> ‘All About Data,’ Data Wrangling"</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="all-about-data-data-wrangling.html"><a href="all-about-data-data-wrangling.html#what-is-data-wrangling"><i class="fa fa-check"></i><b>8.1</b> What is data wrangling?</a></li>
+<li class="chapter" data-level="8.2" data-path="all-about-data-data-wrangling.html"><a href="all-about-data-data-wrangling.html#week-8-learning-activities"><i class="fa fa-check"></i><b>8.2</b> Week 8 Learning Activities</a>
+<ul>
+<li class="chapter" data-level="" data-path="all-about-data-data-wrangling.html"><a href="all-about-data-data-wrangling.html#watch-a-lecture-on-data-wrangling"><i class="fa fa-check"></i>1. Watch a lecture on data wrangling</a></li>
+<li class="chapter" data-level="" data-path="all-about-data-data-wrangling.html"><a href="all-about-data-data-wrangling.html#play-with-one-data-wranging-tool-of-your-choice"><i class="fa fa-check"></i>2. Play with one data wranging tool of your choice</a></li>
+<li class="chapter" data-level="" data-path="all-about-data-data-wrangling.html"><a href="all-about-data-data-wrangling.html#share-your-journey-as-a-data-wrangler-via-slack"><i class="fa fa-check"></i>3. Share your journey as a Data Wrangler via Slack</a></li>
+<li class="chapter" data-level="" data-path="all-about-data-data-wrangling.html"><a href="all-about-data-data-wrangling.html#craft-a-data-wrangling-plan-for-your-course-project"><i class="fa fa-check"></i>4. Craft a data-wrangling plan for your course project</a></li>
+</ul></li>
+<li class="chapter" data-level="8.3" data-path="all-about-data-data-wrangling.html"><a href="all-about-data-data-wrangling.html#housekeeping-for-formal-participation"><i class="fa fa-check"></i><b>8.3</b> Housekeeping for Formal Participation</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">CI 5371: Learning Analytics</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="educational-data-mining-an-overview" class="section level1" number="7">
+<h1><span class="header-section-number">Week 7</span> Educational Data Mining: An Overview</h1>
+<div class="figure">
+<img src="https://images.pexels.com/photos/1009928/pexels-photo-1009928.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260" alt="" />
+<p class="caption">Image credit: <a href="https://www.pexels.com/photo/yellow-heavy-equipment-1009928/"><strong>pixabay</strong></a></p>
+</div>
+<p>As a sister field of Learning Analytics, <strong>Educational Data Mining (EDM)</strong> emerged a few years earlier and has its own disciplinary identity (e.g., a stonger computer science focus, its own <a href="http://educationaldatamining.org/about/">professional society</a>, <a href="http://educationaldatamining.org/conferences/">conference</a>, and <a href="https://jedm.educationaldatamining.org/index.php/JEDM">journal</a>). While two communities developed separately in the beginning, <a href="http://www.upenn.edu/learninganalytics/ryanbaker/LAKs%20reformatting%20v2.pdf">communication and collaboration between two communities (PDF)</a> have increased over the years.</p>
+<p>The overlaps and differences between two communities are nicely summarized by <a href="http://journals.sagepub.com/doi/10.1177/0002764213498851">Siemens (2013)</a>:</p>
+<blockquote>
+<p>Where LA is more concerned with sensemaking and action, educational data mining (EDM) is more focused toward developing methods for “exploring the unique types of data that come from educational settings”. Although the techniques used are similar in both fields, EDM has a more specific focus on reductionist analysis (Siemens &amp; Baker, 2012). As LA draws from and extends EDM methodologies (Bienkowski, Feng, &amp; Means, 2012, p. 14), it is a reasonable expectation that the future development of analytic techniques and tools from both communities will overlap.</p>
+</blockquote>
+<p>We are diving into EDM this week by exploring its connections with LA and playing with various data mining tools used in both communities.</p>
+<p><img src="http://educationaldatamining.org/EDM_ORG/wp-content/uploads/2017/09/edm.png" /></p>
+<div id="meet-an-expert" class="section level2" number="7.1">
+<h2><span class="header-section-number">7.1</span> Meet an Expert</h2>
+<p><strong>Candace Thille</strong> is the founding director of the Open Learning Initiative (OLI) at Carnegie Mellon University and at Stanford University. Her focus is in applying the results from research in the science of learning to the design and evaluation of open web-based learning environments and in using those environments to conduct research in human learning. She took a leave from Stanford <a href="https://www.insidehighered.com/digital-learning/article/2018/01/29/amazons-high-profile-hire-higher-education-candace-thille">in 2018 to work for Amazon</a>. In this talk she gave in 2016, she explored the intersection among the science of learning, data, analytics, and technologies.</p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cYqs0Ei2tFo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</div>
+<div id="week-7-learning-activities" class="section level2" number="7.2">
+<h2><span class="header-section-number">7.2</span> Week 7 Learning Activities</h2>
+<div id="read-annotate-and-discuss" class="section level3" number="7.2.1">
+<h3><span class="header-section-number">7.2.1</span> Read, annotate, and discuss</h3>
+<p>We have two readings this week – one presenting an overview and the other introducing many useful tools.</p>
+<ol style="list-style-type: decimal">
+<li><span class="citation">Romero and Ventura (<a href="#ref-romero2020educational" role="doc-biblioref">2020</a>)</span> - <a href="files/Romero%20and%20Ventura%20-%202020.pdf">PDF link</a>
+<!-- (https://onlinelibrary-wiley-com.ezp1.lib.umn.edu/doi/pdfdirect/10.1002/widm.1355) --></li>
+<li><span class="citation">Slater et al. (<a href="#ref-slater2017tools" role="doc-biblioref">2017</a>)</span> - <a href="files/Slater%20et%20al.%20-%202017.pdf">PDF link</a>
+<!-- (https://journals-sagepub-com.ezp2.lib.umn.edu/doi/pdf/10.3102/1076998616666808) --></li>
+</ol>
+<p>As always, please annotate and interact as you like.</p>
+<p>As we work towards forming our SIGs and course projects, it would be great to think about making <em>some of</em> your annotations more useful for your SIG planning and final project. I encourage you to think about useful tags, e.g., <code>#SIG_social_network</code>, <code>#PROJ_dental_course</code>, and then use them to purposefully tag your annotations. By doing so, we will be able to index our ideas as we continue to engage with all sorts of resources. Again, you may choose to read through an article first and come back to annotate or tag important annotations.</p>
+<p>Note: These tags need to used accurately (e.g. spaces and caps matter) in order to be nicely aggregated by Hypothes.is.</p>
+</div>
+<div id="sig-planning" class="section level3" number="7.2.2">
+<h3><span class="header-section-number">7.2.2</span> SIG Planning</h3>
+<p>Since we’ve finalized <strong>our Special Interest Group plan</strong>, please create channels on Slack, invite group members in, and get the planning started.</p>
+</div>
+<div id="register-for-the-next-learning-informatics-webinar" class="section level3" number="7.2.3">
+<h3><span class="header-section-number">7.2.3</span> Register for the next Learning Informatics Webinar</h3>
+<p>I strongly encourage you to attend the next <strong>Learning Informatics Seminar on Oct 27</strong>, featuring Dr. Marcelo Worsley. <a href="https://umn.zoom.us/webinar/register/WN_S6aW-qPcQDS-v-XihTNf_A">RSVP here</a>!</p>
+<p>Let the party begin!</p>
+<p><img src="https://thumbs.gfycat.com/WeakAnyBallpython-size_restricted.gif" /></p>
+</div>
+</div>
+<div id="bonus-video-how-to-easily-export-hypothes.is-annotations" class="section level2" number="7.3">
+<h2><span class="header-section-number">7.3</span> Bonus video: How to easily export Hypothes.is annotations?</h2>
+<p>Since some of you expressed an interest in using Hypothes.is in your own research, I made this short video to demonstrate my workflow. Let me know if you have any clarification questions.</p>
+<div style="position: relative; padding-bottom: 58.96805896805897%; height: 0;">
+<iframe src="https://www.loom.com/embed/652e2e6ac65542aa8804299e22540bc7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+</iframe>
+</div>
+
+</div>
+</div>
+<h3>References</h3>
+<div id="refs" class="references">
+<div id="ref-romero2020educational">
+<p>Romero, Cristobal, and Sebastian Ventura. 2020. “Educational Data Mining and Learning Analytics: An Updated Survey.” <em>WIREs Data Mining and Knowledge Discovery</em> 10 (3). <a href="https://doi.org/10.1002/widm.1355">https://doi.org/10.1002/widm.1355</a>.</p>
+</div>
+<div id="ref-slater2017tools">
+<p>Slater, Stefan, Srećko Joksimović, Vitomir Kovanovic, Ryan S Baker, and Dragan Gasevic. 2017. “Tools for Educational Data Mining: A Review.” <em>Journal of Educational and Behavioral Statistics: A Quarterly Publication Sponsored by the American Educational Research Association and the American Statistical Association</em> 42 (1): 85–106. <a href="https://doi.org/10.3102/1076998616666808">https://doi.org/10.3102/1076998616666808</a>.</p>
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="hidden-assumptions-epistemology-pedagogy-and-assessment.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="all-about-data-data-wrangling.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/rstudio/la-manual/edit/master/07-edm.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["la-manual.pdf", "la-manual.epub"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

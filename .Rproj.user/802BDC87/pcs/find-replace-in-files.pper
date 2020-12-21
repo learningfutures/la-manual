@@ -1,0 +1,13 @@
+{
+    "dialog-state": {
+        "query": "a minimal book",
+        "path": "~/Google Drive/UMN/Teaching/ci5371/la-manual",
+        "regex": false,
+        "caseSensitive": false,
+        "filePatterns": [],
+        "excludeFilePatterns": [],
+        "resultsCount": 1,
+        "errorCount": 0,
+        "replaceErrors": ""
+    }
+}

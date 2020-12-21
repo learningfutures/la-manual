@@ -1,0 +1,104 @@
+# Ethics, Algorithmic Accountability, and System Integrity
+
+This week we will:
+
+1. Develop an understanding of ethics in the context of LA
+2. Develop an awareness of theories, tools, and approaches that promote system integrity of learning analytics
+3. Continue to explore course project ideas
+
+Thanks for the engaged conversations in the first week of #LAUMN!
+
+<!-- We've been engaged in such thoughtful dialogues via Hypothes.is, Slack, and Zoom. As we try to survive all those acronyms, here is [a community glossary](https://colig.github.io/laumn/post/glossary/) you can look at and contribute to.  -->
+
+What is apparent to myself is that the breadth of expertise represented in our community is truly energizing. I hope we can continue to have deep conversations within and beyond this community, and to engage in learning that's personally meaningful to everyone of us. 
+
+In the spirit of "living and exploring the capacity of learning analytics", I encourage you to explore tools like [**CROWD LAAERS**](https://crowdlaaers.org/) that we discussed during our Zoom meeting. After authenticating yourself using your [Hypothes.is API token](https://hypothes.is/account/developer), you will be able to choose our group and have a bird-eye view of our annotation activities. 
+
+I found the `Threads` section quite useful for discovering threads with more (or less) participation. You can click on a particular thread to filter or "drill down"  the data.
+
+![](img/crowdlaaers-2020.png)
+
+## Ethics in Learning Analytics
+
+Let's be clear, *ethics* should not be an after-thought in a learning analytics application. (That's why we are discussing ethics this week instead of in Week 14 of this semester.) But what do ethical practices in the field entail is not always clear. 
+
+While research ethics considers principles such as confidentiality, privacy, and informed consent, a learning analytics project may not be considered *research* at all (if its goal is not to produce generalizable knowledge). 
+
+However, extensive collection of learning data, increasing cases of "black-box algorithms," and more direct impact on learners necessitate some serious conversations about ethics in learning analytics. 
+
+![(Photo Credit: [Wikipedia](https://en.wikipedia.org/wiki/Black_box))](https://upload.wikimedia.org/wikipedia/commons/7/7c/Blackbox3D-withGraphs.png)
+
+Last week's discussions have already touched upon many questions about ethics. This week, we are going to dive into ethics, algorithmic accountability, and system integrity. 
+
+## Week 3 Learning Activities
+
+### Read, annotate, and discuss
+
+**Please read**:
+
+- @prinsloo2017ethics - [link](https://solaresearch.org/wp-content/uploads/2017/05/chapter4.pdf).  (Note: It may be difficult to highlight larger text snippets in this particular PDF file.)
+- **Optional readings**: 
+  - @kitto2019practical - [link](http://sjgknight.com/finding-knowledge/wp-content/uploads/2019/08/EthicalLA-accepted_oro.pdf) 
+  - @chen2019valuesensitive - [link](https://arxiv.org/pdf/1812.08335.pdf). 
+
+When reading each article, **please annotate** wherever you like. Let the community know when something confuses you, when you find an example that fits your interests, when you find a statement illuminating/useful, etc. 
+
+**Please also reply** to each other whenever you could. See Section \@ref(schedule) posted in Week 1 for details about the weekly timeline.
+
+This week, I encourage you to be very **intentional about tags** you use in Hypothesis annotations. 
+
+**Reminder**: When annotating with Hypothes.is, please make sure the `LAUMN-2020` group is selected.  If you are not sure about annotating PDFs, please refer back to this video tutorial. 
+
+<div style="position: relative; padding-bottom: 74.83333333333333%; height: 0;"><iframe src="https://www.loom.com/embed/aa27dc8563ab487181db6d854decde6c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+### Meet Learning Analytics Experts
+
+**[Paul Prinsloo](https://opendistanceteachingandlearning.wordpress.com/about/)** from the University of South Africa (Unisa) has been writing and giving talks about 'ethics and learning analytics' for many years. He delivered a keynote on this topic in Scotland in 2018. He has graciously allowed me to embed his slides on our course website:
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/lJfMuY2tUK6WVI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/prinsp/zombie-categories-broken-data-and-biased-algorithms-what-else-can-go-wrong-ethics-in-the-collection-analysis-and-use-of-student-data-111886874" title="Zombie categories, broken data and biased algorithms: What else can go wrong? Ethics in the collection, analysis and use of student data" target="_blank">Zombie categories, broken data and biased algorithms: What else can go wrong? Ethics in the collection, analysis and use of student data</a> </strong> from <strong><a href="https://www.slideshare.net/prinsp" target="_blank">University of South Africa (Unisa)</a></strong> </div>
+
+
+**[Simon Buckingham Shum](http://simon.buckinghamshum.net/)**, Director of the Connected Intelligence Centre (CIC) at the University of Technology Sydney, invited us to consider 'Algorithmic Accountability' and 'Analytic System Integrity'. Discussion of Algorithmic Accountability has been [taken up by important academic associations like the Association for Computing Machinery (ACM)](https://www.acm.org/binaries/content/assets/public-policy/2017_usacm_statement_algorithms.pdf). But Simon stretches our thinking to consider 'Analytic System Integrity' in learning analytics. Below is a talk he gave at the UCL Institute of Education in 2016. His team is recently working on [Ethical Design Critique](http://simon.buckinghamshum.net/2018/08/ethical-design-critique/), which offers concrete measures to enhance ethics in learning analytics tools. And he is delivering a Learning Informatics Webinar to a UMN audience on Sep 24! Don't miss it.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0t0IWvcO-Uo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### "Living" with Learning Analytics
+
+Last week, we introduced [CROWD LAAERS](https://crowdlaaers.org/) designed for Hypothes.is.
+
+This week, I encourage you to check out [**this data tool**](https://jonudell.info/h/facet/) developed by a Hypothes.is engineer that helps you "see" Hypothes.is data. Again, you will need to use your Hypothes.is API token to access our private group annotations. Please try to play with the CSV and JSON formats to see what they look like. 
+
+Share your thoughts and findings on Slack!
+
+### Continuing to explore project ideas
+
+Thanks for sharing your initial project ideas on Slack. As we read and discuss more, please take time to explore and refine ideas. The official deadline for sharing your project idea is 9/29. 
+
+Please consider *problems/goals*, *stakeholders*, *data sources*, *analysis*, and *action* of your project. 
+
+When you're ready, please post your project idea in the `projects` channel. Continue to give each other's ideas constructive comments!
+
+![](https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif)
+
+## Housekeeping
+
+### Start to Explore Special Interest Groups (SIGs)
+
+**Please start to consider which Special Interest Group(s) you're interested in.** Below is a list of tentative topics but you can suggest topics beyond the list. Ideally, the Special Interest Group you sign up for is related to your final project.
+
+- Social Network Analysis
+- Predictive Models
+- Text and Discourse Analytics
+- Visual Learning Analytics
+- Temporal Analytics
+- Multimodal Learning Analytics
+- Collaboration Analytics
+- Institutional Readiness
+
+### Future Weeks
+
+No Zoom meetings in the next few weeks. 
+
+There will be a Slack chat on Tue, Sep 22 (details to be announced).
+
+Questions? Reach out to Bodong via Slack or email. 

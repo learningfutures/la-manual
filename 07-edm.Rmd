@@ -1,0 +1,58 @@
+# Educational Data Mining: An Overview
+
+![Image credit: [**pixabay**](https://www.pexels.com/photo/yellow-heavy-equipment-1009928/)](https://images.pexels.com/photos/1009928/pexels-photo-1009928.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+
+
+As a sister field of Learning Analytics, **Educational Data Mining (EDM)** emerged a few years earlier and has its own disciplinary identity (e.g., a stonger computer science focus, its own [professional society](http://educationaldatamining.org/about/), [conference](http://educationaldatamining.org/conferences/), and [journal](https://jedm.educationaldatamining.org/index.php/JEDM)). While two communities developed separately in the beginning, [communication and collaboration between two communities (PDF)](http://www.upenn.edu/learninganalytics/ryanbaker/LAKs%20reformatting%20v2.pdf) have increased over the years. 
+
+The overlaps and differences between two communities are nicely summarized by [Siemens (2013)](http://journals.sagepub.com/doi/10.1177/0002764213498851):
+
+> Where LA is more concerned with sensemaking and action, educational data mining  (EDM) is more focused toward developing methods for "exploring the unique types of  data that come from educational settings". Although the techniques used are similar  in  both  fields,  EDM  has  a  more  specific  focus  on  reductionist  analysis  (Siemens  &   Baker,  2012).  As  LA  draws  from  and  extends  EDM  methodologies  (Bienkowski,   Feng, & Means, 2012, p. 14), it is a reasonable expectation that the future development  of analytic techniques and tools from both communities will overlap.
+
+We are diving into EDM this week by exploring its connections with LA and playing with various data mining tools used in both communities. 
+
+![](http://educationaldatamining.org/EDM_ORG/wp-content/uploads/2017/09/edm.png)
+
+## Meet an Expert
+
+**Candace Thille** is the founding director of the Open Learning Initiative (OLI) at Carnegie Mellon University and at Stanford University. Her focus is in applying the results from research in the science of learning to the design and evaluation of open web-based learning environments and in using those environments to conduct research in human learning. She took a leave from Stanford [in 2018 to work for Amazon](https://www.insidehighered.com/digital-learning/article/2018/01/29/amazons-high-profile-hire-higher-education-candace-thille). In this talk she gave in 2016, she explored the intersection among the science of learning, data, analytics, and technologies. 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cYqs0Ei2tFo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Week 7 Learning Activities
+
+### Read, annotate, and discuss
+
+We have two readings this week -- one presenting an overview and the other introducing many useful tools. 
+
+1. @romero2020educational - [PDF link](files/Romero and Ventura - 2020.pdf)
+<!-- (https://onlinelibrary-wiley-com.ezp1.lib.umn.edu/doi/pdfdirect/10.1002/widm.1355) -->
+2. @slater2017tools - [PDF link](files/Slater et al. - 2017.pdf)
+<!-- (https://journals-sagepub-com.ezp2.lib.umn.edu/doi/pdf/10.3102/1076998616666808) -->
+
+As always, please annotate and interact as you like. 
+
+As we work towards forming our SIGs and course projects, it would be great to think about making *some of* your annotations more useful for your SIG planning and final project. I encourage you to think about useful tags, e.g., `#SIG_social_network`, `#PROJ_dental_course`, and then use them to purposefully tag your annotations. By doing so, we will be able to index our ideas as we continue to engage with all sorts of resources. Again, you may choose to read through an article first and come back to annotate or tag important annotations. 
+
+Note: These tags need to used accurately (e.g. spaces and caps matter) in order to be nicely aggregated by Hypothes.is. 
+
+
+### SIG Planning
+
+Since we've finalized **our Special Interest Group plan**, please create channels on Slack, invite group members in, and get the planning started. 
+
+
+### Register for the next Learning Informatics Webinar
+
+I strongly encourage you to attend the next **Learning Informatics Seminar on Oct 27**, featuring Dr. Marcelo Worsley.  [RSVP here](https://umn.zoom.us/webinar/register/WN_S6aW-qPcQDS-v-XihTNf_A)! 
+
+
+Let the party begin!
+
+![](https://thumbs.gfycat.com/WeakAnyBallpython-size_restricted.gif)
+
+## Bonus video: How to easily export Hypothes.is annotations?
+
+Since some of you expressed an interest in using Hypothes.is in your own research, I made this short video to demonstrate my workflow. Let me know if you have any clarification questions. 
+
+<div style="position: relative; padding-bottom: 58.96805896805897%; height: 0;"><iframe src="https://www.loom.com/embed/652e2e6ac65542aa8804299e22540bc7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

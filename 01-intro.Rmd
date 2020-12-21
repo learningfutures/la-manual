@@ -1,0 +1,105 @@
+# Introduction {#intro}
+
+A warm welcome to **CI 5371 - Learning Analytics: Theory and Practice**! I am so excited to offer this course again this fall at the University of Minnesota. As the instructor, I learn so much from the class community each year and look forward to our adventure together this semester!
+
+This week we will: 
+
+1. Get familiar with the course, including its design, schedule, and tools
+1. Get to know each other
+2. Discuss our diverse interests in learning analytics
+
+## This Course
+
+### Course Syllabus
+
+First thing first, please read [**the course syllabus**](https://docs.google.com/document/d/1Y8kx_7IgM4sL9zvuG729uG6oo9p_BOxtUiNyGcDL-f8/edit?usp=sharing) in its entirety. 
+
+Leave a comment or send me an email when you have any questions. 
+
+### Technology setup
+
+An online course does not need to be about watching videos and answering quizzes. To foster rich learning experiences, we will be using several technological tools to foster social, collaborative learning. Depending on your familiarity with these tools, there could be a learning curve. So please spend time this week to familiarize yourself with them.
+
+*Pro tip*: Please use you UMN id (`chenbd` for myself) consistently when signing up for these tools. 
+
+**Zoom**. We will host a number of virtual meetings on Zoom throughout the semester. Please make sure your computer has [Zoom](https://zoom.us/) installed (see the video below). Please test your Zoom setup in advance to make sure audio and video configurations work properly. 
+<!-- You will receive a calendar invitation with details about joining our Zoom meetings.  -->
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vFhAEoCF7jg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+**Slack**. You will receive a link that invites you to join [our Slack community](https://la-mn.slack.com/). Course announcements are made on Slack. All sorts of class discussions will take place there as well. You can also interact with our course alumni in some public channels. Slack is a better tool for social interaction and community building.
+
+First time using Slack? Watch the video below and/or read this [brief introduction to Slack](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-).
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9RJZMSsH7-g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+**Hypothes.is**. You should have received a link that invites you to join our Hypothes.is group. Hypothes.is is a web annotation tool that enables us to discuss readings in a contextual manner. When annotating, please make sure our group name (**LAUMN-2020**) is properly selected (see image below). See [this quick start guide](https://web.hypothes.is/help/quick-start-guide/) to get started, and [this tutorial page](https://web.hypothes.is/help/annotating-with-groups/) to learn about annotating together as a group.
+
+Again, please use your UMN id when creating your Slack and Hypothesi.is account.
+
+![](https://d242fdlp0qlcia.cloudfront.net/uploads/2018/03/21135305/scopeselector-groupname.png)
+
+<!-- **Knowledge Forum** (KF). If you're a formal participant, you should have received a link and a registration key to join our Knowledge Forum community. KF is a space for collaborative knowledge building. It's where we propose our initial (and sometimes naive) ideas and then grow them this semester. KF has a suite of analytics tools as well, so it will allows us to 'live' the capacity of learning analytics while we explore this topic.  -->
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/ebgi-NnjSak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+<!-- ### Two tracks of participation -->
+
+<!-- This course website is openly available, allowing two tracks of participation designed for this class. -->
+
+<!-- 1. **UMN class**: For UMN graduate students enrolled in the class, your participation in this class is not that different from taking another online class. You are expected to meet course requirements outlined in the course syllabus. You will have *private* spaces (on Slack and Hypothesis private group) for within-class communications. You can decide the extent to which you interact with colleagues outside of the class list. -->
+<!-- 2. **Open participation**: For 'Open Participants' who would like to follow along, you can access the same materials curated on this website. Because 90% of course readings are open-access, you will be able to annotate readings using Hypothes.is as well (using [the `LAUMN` tag](https://hypothes.is/search?q=tag%3ALAUMN)). You are also encouraged to interact with me and community members via [Twitter hashtag `#LAUMN`](https://twitter.com/search?q=%23LAUMN&src=typd). -->
+
+If you have any feedback on the design, I'd love to hear your thoughts.
+
+### What to expect each week? {#schedule}
+
+This online class is designed to offer rich opportunities for social participation. Below is an infographic showing how a week would (typically) look like. 
+
+- **Our class meetings happen on Tuesdays.** The class meetings are designed for us to chat about things we've learned, gaps of understanding, future plans, etc. In some weeks we will meet in Zoom; in some other weeks, we will "meet" on Slack throughout Tuesday. 
+- **A fresh week starts on Wednesdays.** Depending on your schedule, you can get started with course readings and begin to make annotations. 
+- **By the end of Friday**, you are expected to finish reading articles assigned for the week and post your personal annotations on Hypothesis.
+- **By the end of Monday**, you are expected to check out what other colleagues annotated and reply to each other. You will receive an email notification when someone responds to you. It is hoped that by putting our minds together we can develop deeper understanding. 
+- On Tuesday, we chat more on Slack or Zoom. Detailed guidelines will be posted each week. 
+
+
+![](img/weekly-schedule.png)
+
+## Week 1 Activities
+
+### Readings
+
+1. Course syllabus
+
+<!-- 2. [Siemens, G. (2013). Learning analytics: The emergence of a discipline. The American Behavioral Scientist, 57(10), 1380–1400.](http://journals.sagepub.com.ezp3.lib.umn.edu/doi/pdf/10.1177/0002764213498851)  ([Downloadable PDF](https://iu.instructure.com/files/56153619/download?download_frd=1) for Open Participants.) -->
+
+<!-- When reading Siemens (2013), **please create at least 1 annotation and reply to 2 annotations made by peers**. Not sure what/how to annotate, consider sentence starters like: `"I'm intrigued by..."`, `"I'm surprised by..."`, `"I need to understand..."`, `"Additional resource..."`, etc. -->
+
+<!-- **Tip**: Click on the Annotations link to the top of this page to see all annotations posted to our Hypothes.is group. -->
+
+### Week 1 Zoom Meeting
+
+Our first virtual meeting will take place on **Tuesday, 09/08, 5:30-7pm** via Zoom. You should have received a calendar invitation with details. 
+
+See you soon!
+
+
+<!-- You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods). -->
+
+<!-- Figures and tables with captions will be placed in `figure` and `table` environments, respectively. -->
+
+<!-- ```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center'} -->
+<!-- par(mar = c(4, 4, .1, .1)) -->
+<!-- plot(pressure, type = 'b', pch = 19) -->
+<!-- ``` -->
+
+<!-- Reference a figure by its code chunk label with the `fig:` prefix, e.g., see Figure \@ref(fig:nice-fig). Similarly, you can reference tables generated from `knitr::kable()`, e.g., see Table \@ref(tab:nice-tab). -->
+
+<!-- ```{r nice-tab, tidy=FALSE} -->
+<!-- knitr::kable( -->
+<!--   head(iris, 20), caption = 'Here is a nice table!', -->
+<!--   booktabs = TRUE -->
+<!-- ) -->
+<!-- ``` -->
+
+<!-- You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015]. -->

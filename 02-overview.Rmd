@@ -1,0 +1,72 @@
+# Learning Analytics: A Brief Overview
+
+This week we will:
+
+1. Develop a grasp of the field of LA
+2. Start to explore course project ideas
+
+## Learning Activities
+
+### Read, annotate, and discuss
+
+This week, we will get a chance to take a closer look at this field by reading some introductory texts, exploring cases/examples, and posing questions. 
+
+- What problems do learning analytics seek to address? 
+- In which educational settings? 
+- At which levels of an education system? 
+
+Because this field is truly inter--disciplinary, I expect us to enter this field from our unique backgrounds and contribute to the field with different perspectives. 
+
+**Please read**:
+
+1. @siemens2013learning - [download link](https://journals-sagepub-com.ezp2.lib.umn.edu/doi/pdf/10.1177/0002764213498851) or [this link](http://journals.sagepub.com/doi/pdf/10.1177/0002764213498851)
+2. @krumm2018learning -  **[Chapter 2](https://drive.google.com/open?id=1LB5J1UytIV2yOq47xKFrnneTJ7YCMJQV)** (*Note: This reading can only be annotated offline. Check [this Youtube video](https://www.youtube.com/watch?v=YZW6L-0qkwI) to learn how.*)
+
+<!-- 1. [Siemens, G. (2013). Learning analytics: The emergence of a discipline. The American Behavioral Scientist, 57(10), 1380–1400.](http://journals.sagepub.com.ezp3.lib.umn.edu/doi/pdf/10.1177/0002764213498851) -->
+<!-- 2. Krumm, A., Means, B., & Bienkowski, M. (2018). Learning Analytics Goes to School: A Collaborative Approach to Improving Education, **[Chapter 2](https://drive.google.com/open?id=1LB5J1UytIV2yOq47xKFrnneTJ7YCMJQV)**. Routledge.  (*Note: This reading can only be annotated offline. Check [this Youtube video](https://www.youtube.com/watch?v=YZW6L-0qkwI) to learn how.*) -->
+
+When reading each article, **please annotate** wherever you like. Let the community know when something confuses you, when you find an example that fits your interests, when you find a statement illuminating/useful, etc. 
+
+**Please also reply** to each other whenever you could. See Section \@ref(schedule) posted in Week 1 for details about the weekly timeline.
+
+This week, I encourage you to be very **intentional about tags** you use in Hypothesis annotations. Several ground rules I'd like to propose to our collective tagging to help us better index our ideas:
+
+- Let's include `#` in our tags (e.g., `#question`)
+- Let's use lowercase (e.g., `#sharing`), unless the tag is a named entity (e.g., `#LMS`)
+- Let's not include spaces, but use underscore (`_`) instead (e.g., `#data_mining` instead of `#data mining`)
+- Let's try to use the following tags when we discover `#muddy_points`,`#good_points`, and `#useful_points` in the readings
+
+**Reminder**: When annotating with Hypothes.is, please make sure the `LAUMN-2020` group is selected.  If you are not sure about annotating PDFs, please refer back to tutorials in Week 1. 
+
+<div style="position: relative; padding-bottom: 74.83333333333333%; height: 0;"><iframe src="https://www.loom.com/embed/aa27dc8563ab487181db6d854decde6c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+### Watch a Video
+
+[George Siemens](https://en.wikipedia.org/wiki/George_Siemens), who authored the first article we read, gave a lecture about learning analytics. George is the founding president of the [Society for Learning Analytics Research (SoLAR)](https://solaresearch.org/), which is the most prominent international organization of learning analytics. 
+
+Watch Siemens' lecture and share your ideas on Slack.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KqETXdq68vY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<!-- (*Note*: Great questioning during Week 1 on whether the definition(s) of learning analytics have changed over the years. I encourage you to keep this question alive as we dig into more readings, interact with scholars like George on Twitter, or tweet such questions to the #LearningAnalytics hashtag.) -->
+
+
+### Exploring course project ideas
+
+<!-- ![Source: https://gfycat.com/gifs/detail/mistyweirdhyrax](https://thumbs.gfycat.com/MistyWeirdHyrax-size_restricted.gif) -->
+
+While/after reading, start to explore possible project ideas based on your interests. At this point, it is totally okay if your project idea is more or less vague. You can share your ideas on Slack. This is an opportunity for us to learn more about our interests, receive feedback, and find colleagues with similar interests. 
+
+
+**Below are a list of example project ideas.** Please see the syllabus for more detailed guidelines. 
+
+- Applying Natural Language Processing to Investigating Language Development and Epistemic Complexity in Group Chats
+- Integrating a Teacher Dashboard in Science Classrooms: A Mixed-Methods Study of Teacher Perspectives
+- Developing a Deep Learning Model for the Prediction of Student Success in Introductory Physics
+- Students under lockdown: Comparisons of students’ social networks and mental health before and during the COVID-19 crisis
+
+### Week 2 Zoom Meeting
+
+We will meet synchronously again on **Tuesday, 09/15, 5:30-7pm** via Zoom.
+
+Have a great week!

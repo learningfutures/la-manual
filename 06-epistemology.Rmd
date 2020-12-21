@@ -1,0 +1,61 @@
+# Hidden Assumptions: Epistemology, Pedagogy, and Assessment
+
+
+In this week, we will extend our dialogues on *learning theory* in the previous week into deeper conversations about hidden assumptions in learning analytics. 
+
+This line of thinking has been informed by a talk given by **[Simon Knight](https://twitter.com/sjgknight?lang=en)** at LAK13 titled *Epistemology, Pedagogy, Assessment and Learning Analytic* (see slides below). Their work has evolved over the years and one reading for this week is a book chapter with a set of provocations pushing us to think more about hidden assumptions.
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/lRAB9yVRBDcQyk" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/sjgknight/lak13-knight-buckingham-shum-littleton-paper" title="LAK13: Epistemology, Pedagogy, Assessment and Learning Analytics" target="_blank">LAK13: Epistemology, Pedagogy, Assessment and Learning Analytics</a> </strong> from <strong><a href="https://www.slideshare.net/sjgknight" target="_blank">Simon Knight</a></strong> </div>
+
+<br>
+
+I've [written about this topic as well, in my mother tongue Chinese](https://www.researchgate.net/publication/317586037_Unpacking_Learning_Analytics_An_Attempt_to_Tilt_the_Iceberg_jiexixuexifenxixueyiciqiaodongbingshandechangshi). To me, 
+
+> "Learning Analytics is like an iceberg. Its visible parts include materialized tools and observable activities, while its hidden parts comprise conceptualizations of learning, power relations in teaching and learning, and complex social, political and cultural intentions of education."
+
+Catering to the Chinese audience, I drew on [the etymology of the character 数 (*n*: number; *v*: count) in Chinese](https://www.vividict.com/Public/index/page/details/details.html?rid=11671) and explained how one of its ancient forms (below) is embedded with the meaning of punishing someone (esp. a kid) for their "mistakes."
+
+<!-- ![](http://www.vividict.com/UserFiles/Image/==CF--wuli==/--CF3--pu(zu)--/017shu/[2]jin(1).gif) -->
+![](https://www.vividict.com/Upload/2020/1/3/20200103111043147908.png)
+
+I could not stop asking: *To what extent is this original meaning still reflected in our use of numbers or data (数据) today? Which other assumptions and biases are built into our daily data practices in general and learning analytics in particular? How about in other languages or cultures?*
+
+## Meet An Expert
+
+Last week we read the book chapter by Dr. [Phil Winne](https://www.sfu.ca/education/faculty-profiles/pwinne.html), Professor from Simon Fraser University, Canada. I recently encountered this interview he did with the Centre for Change and Complexity in Learning (C3L), University of South Australia. Take a look to find out why he joined the learning analytics community and what he thinks the biggest challenges are for the field. 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xUNf5Pt9GE8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Week 6 Learning Activities
+
+### Read, annotate, and discuss
+
+We have two readings for this week -- one short book chapter and one journal article. 
+
+1. @knight2017theory - [link](https://solaresearch.org/wp-content/uploads/2017/05/chapter1.pdf)
+2. @perrotta2018social - [link](https://www.tandfonline.com/doi/pdf/10.1080/17439884.2016.1182927?needAccess=true)
+
+As always, please annotate and interact as you like. As I suggested last week, you can make annotations at your own pace using your preferred medium. 
+
+> "I invite everyone to come up with a strategy that works for you. One example: Read through quickly and make highlights (even on paper). Then pick a few key spots to make annotations that would help yourself and others in the class."
+
+As we work towards forming our SIGs and course projects, it would be great to think about making *some of* your annotations more useful for your SIG planning and final project. I encourage you to think about useful tags, e.g., `#SIG_social_network`, `#PROJ_dental_course`, and then use them to purposefully tag your annotations. By doing so, we will be able to index our ideas as we continue to engage with all sorts of resources. Again, you may choose to read through an article first and come back to annotate or tag important annotations. 
+
+
+### SIG planning
+
+First of all, **please finalize your Special Interest Group (SIG) choices.**  Feel free to ask questions on Slack.
+
+If you have assembled a group, congratulations! As for next steps, I suggest you consider the following when launching your SIG efforts:
+
+- On Slack, create a new *channel* dedicated to your SIG. You don't need to invite everyone yet, but you can start to chat with your SIG co-lead. Feel free to invite Bodong in to co-plan with you. 
+
+### Continue to advance your project idea
+
+At this point, you can tell that I'm trying to structure each week for you to keep advancing your course project. Last week, treat your Slack post about learning theory as a step forward for your course project. The next few weeks will be similar. 
+
+Again, it is totally fine if your current project idea still feels vague. But please do seek out opportunities to advance your ideas by searching additional resources or chatting with each other via Slack. My hope is to make sure everyone in this course is building a project that has a purpose beyond this course. You are in charge of making the final project meaningful for youself!
+
+Have a great week ahead!
+
+![](https://media1.tenor.com/images/9b141e57cccfc60a9f214e97b9061e69/tenor.gif?itemid=4529300)

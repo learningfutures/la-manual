@@ -1,0 +1,12 @@
+name: la-manual
+title:
+username: chen
+account: chen
+server: bookdown.org
+hostUrl: https://bookdown.org/__api__
+appId: 5382
+bundleId: 27605
+url: https://bookdown.org/chen/la-manual/
+when: 1599496494.83996
+asMultiple: FALSE
+asStatic: FALSE
